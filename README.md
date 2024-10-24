@@ -73,7 +73,6 @@ To reproduce the results of this project, follow these steps:
 1. Clone the repository.
 2. Install the required libraries:
    ```bash
-   pip install -r requirements.txt
-   
-3. Download the dataset from Kaggle and place it in the specified directory.
+   pip install -r requirements.txt   
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset/data) and place it in the specified directory.
 4. Run the notebook for training the model.
