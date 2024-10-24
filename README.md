@@ -1,5 +1,7 @@
 # Fish Species Classification Using Deep Learning
 
+##[Kaggle Notebook Link]([https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset/data](https://www.kaggle.com/code/ogskrrrt/fish-classification)) 
+
 ## Overview
 This project focuses on the classification of nine different seafood types using a large-scale dataset collected from a supermarket in Izmir, Turkey. The dataset contains 9000 images of various fish species and shrimp, which are labeled into categories for classification tasks. The goal of this project is to develop a robust image classification model using a deep learning approach, specifically a multi-layer Artificial Neural Network (ANN), to accurately classify the seafood images.
 
